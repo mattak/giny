@@ -6,10 +6,11 @@ memo for developing.
 Routing
 -------
 
+<pre>
   / --- show all user repository
      |
      /username --- user page
-
+</pre>
 
 Function
 --------
